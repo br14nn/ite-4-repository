@@ -1,3 +1,7 @@
+const myModule = require("./myModule");
+
+console.log(myModule.fullname);
+
 // let x = "person";
 
 // for (let i = x.length - 1; i >= 0; i--) {
